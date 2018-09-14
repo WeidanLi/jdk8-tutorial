@@ -10,6 +10,6 @@
 2. [jdk8 集合流使用<项目：jdk8-stream>](./jdk8-stream/readme.md)
 3. [jdk8 集合流统计、规约操作<项目：jdk8-stream2>](./jdk8-stream2/readme.md)
 4. [jdk8 集合流收集<项目：jdk8-collect>](./jdk8-collect/readme.md)
-5. jdk8 多线程简单使用<项目：jdk8-future>
-6. jdk8 函数式编程简单应用<项目：jdk8-mall-functional>
+5. [jdk8 多线程简单使用<项目：jdk8-future>](./jdk8-future/readme.md)
+6. [jdk8 函数式编程思考及简单应用<项目：jdk8-mall-functional>](./jdk8-mall-functional/readme.md)
 
